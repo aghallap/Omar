@@ -2,7 +2,7 @@
   "Gold": {
     "update_code": "6",
     "reminder_time": "3",
-    "update_version": "v59.0",
+    "update_version": "v60.0",
     "com.obwhatsapp": "https://www.abu2rab.com/2024/02/waob-ali.html",
     "com.ob2whatsapp": "https://www.abu2rab.com/2024/02/waob2-ali.html",
     "com.ob3whatsapp": "https://www.abu2rab.com/2024/02/waob3-ali.html",
