@@ -2,12 +2,12 @@
   "Gold": {
     "update_code": "6",
     "reminder_time": "3",
-    "update_version": "v60.0",
+    "update_version": "v61.0",
     "com.obwhatsapp": "https://www.abu2rab.com/2024/02/waob-ali.html",
-    "com.ob2whatsapp": "https://www.abu2rab.com/2024/02/waob2-ali.html",
-    "com.ob3whatsapp": "https://www.abu2rab.com/2024/02/waob3-ali.html",
-    "com.ob4whatsapp": "https://www.abu2rab.com/2024/02/waob4-ali.html",
-    "com.ob5whatsapp": "https://www.abu2rab.com/2024/02/waob5-ali.html",
+    "com.ob2whatsapp": "https://www.abu2rab.com/2024/02/waob-ali.html",
+    "com.ob3whatsapp": "https://www.abu2rab.com/2024/02/waob-ali.html",
+    "com.ob4whatsapp": "https://www.abu2rab.com/2024/02/waob-ali.html",
+    "com.ob5whatsapp": "https://www.abu2rab.com/2024/02/waob-ali.html",
     "com.ob6whatsapp": "https://www.abu2rab.com/2024/02/waob6-ali.html",
     "update_message": "
 <p>Update VØªØ­Ø¯ÙŠØ« 60</p>
